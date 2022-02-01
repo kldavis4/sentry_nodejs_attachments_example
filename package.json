@@ -1,0 +1,12 @@
+{
+  "name": "sentry_attachments",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "@sentry/node": "^6.17.3",
+    "@sentry/tracing": "^6.2.5",
+    "axios": ">=0.21.2",
+    "form-data": "^4.0.0"
+  }
+}
